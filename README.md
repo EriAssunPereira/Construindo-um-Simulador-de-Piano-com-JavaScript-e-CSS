@@ -84,6 +84,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 Para ver um modelo na prática, você pode conferir tutoriais online que mostram passo a passo como criar um jogo da memória¹[1]²[2]³[3]. Esses recursos podem oferecer vídeos e códigos de exemplo que ajudarão você a entender melhor o processo e aplicar no seu projeto.
 
-Espero que eu tenha com essas informações, te ajudado a começar seu projeto de jogo da memória com emojis!
+Espero que eu tenha, com essas informações, te ajudado a começar seu projeto de jogo da memória com emojis!
 
 https://github.com/felipeAguiarCode/js-music-keyboard-virtual
